@@ -1,6 +1,15 @@
-# state_management_getx
+# State Management - Getx
 
-A new Flutter project.
+This is a basic example using the same code of App State Management (Singleton or Bloc or Providers previously) using a wonderful package called GetX. This approach is another option if the app complexity is really high. Another good option is using providers or bloc.
+
+This package has not only State Management capability but also many other features like Route Management, GetMaterialApp, Snackbar, App Theme, and others.
+
+- For more details: [GetX package](https://pub.dev/packages/get)
+
+<p align = "center">
+<img src="/images/example.gif" width="250"> <img src="/images/screen01.png" width="250"> <img src="/images/screen02.png" width="250">
+</p>
+
 
 ## Getting Started
 
